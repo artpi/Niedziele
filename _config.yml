@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
-name: Niedziele wolne od handlu
+name: "Niedziele wolne od handlu"
 
-# Short bio or description (displayed in the header)
+title: "Niedziele wolne od handlu"
 description: Nie wiesz które niedziele są wolne od handlu? My wiemy!
+app_store_url: "http://piszek.com"
+android_url: "http://piszek.com"
