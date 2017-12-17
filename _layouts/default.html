@@ -26,13 +26,11 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-      {% if site.app_store_url %}
-        <a href="{{ site.app_store_url }}" class="btn">Pobierz na iOS</a>
-      {% endif %}
       {% if site.android_url %}
         <a href="{{ site.android_url }}" class="btn">Pobierz na Androida</a>
       {% endif %}
+      
+      <a class="btn">iOS coming soon</a>
     </section>
 
     <section class="main-content">
@@ -50,13 +48,12 @@
             <li>Pozwoli Ci wygrać w loterię "czy dzisiaj zjem"</li>
 
           </ul>
-{% if site.app_store_url %}
-<a href="{{ site.app_store_url }}" class="btn side">Pobierz na <b>iOS</b></a>
-{% endif %}
-<br/>
+
 {% if site.android_url %}
 <a href="{{ site.android_url }}" class="btn side">Pobierz na <b>Androida</b></a>
 {% endif %}
+<br/>
+<a class="btn side">iOS coming soon</a>
         </td></tr>
       </table>
 
