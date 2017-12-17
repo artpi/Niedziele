@@ -1,6 +1,3 @@
-# Czykupię App
-
-Czykupię pozwala na...
 
 ## Niedziele wolne od handlu
 
