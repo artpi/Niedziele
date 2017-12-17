@@ -4,11 +4,23 @@
     <meta charset="UTF-8">
 
 {% seo %}
+    <link href="//use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
+    <style>
+      a.btn.side {
+        display:block;
+        color: rgba(46, 41, 78, 0.7);
+        border-color: rgba(46, 41, 78, 0.7);
+
+      }
+      a.btn.side:hover {
+        color: rgba(46, 41, 78, 1);
+        border-color: rgba(46, 41, 78, 1);
+      }
+    </style>
   </head>
   <body>
     <section class="page-header">
@@ -39,10 +51,10 @@
 
           </ul>
       {% if site.app_store_url %}
-        <a href="{{ site.app_store_url }}" class="btn"><i class="far fa-apple"></i> Pobierz na iOS</a>
+        <a href="{{ site.app_store_url }}" class="btn side"><i class="far fa-apple"></i> Pobierz na iOS</a>
       {% endif %}
       {% if site.android_url %}
-        <a href="{{ site.android_url }}" class="btn"><i class="far fa-android"></i> Pobierz na Androida</a>
+        <a href="{{ site.android_url }}" class="btn side"><i class="far fa-android"></i> Pobierz na Androida</a>
       {% endif %}
         </td></tr>
       </table>
