@@ -28,10 +28,10 @@
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
       {% if site.app_store_url %}
-        <a href="{{ site.app_store_url }}" class="btn"><i class="far fa-apple"></i> Pobierz na iOS</a>
+        <a href="{{ site.app_store_url }}" class="btn">Pobierz na iOS</a>
       {% endif %}
       {% if site.android_url %}
-        <a href="{{ site.android_url }}" class="btn"><i class="far fa-android"></i> Pobierz na Androida</a>
+        <a href="{{ site.android_url }}" class="btn">Pobierz na Androida</a>
       {% endif %}
     </section>
 
@@ -50,12 +50,13 @@
             <li>Pozwoli Ci wygrać w loterię "czy dzisiaj zjem"</li>
 
           </ul>
-      {% if site.app_store_url %}
-        <a href="{{ site.app_store_url }}" class="btn side"><i class="far fa-apple"></i> Pobierz na iOS</a>
-      {% endif %}
-      {% if site.android_url %}
-        <a href="{{ site.android_url }}" class="btn side"><i class="far fa-android"></i> Pobierz na Androida</a>
-      {% endif %}
+{% if site.app_store_url %}
+<a href="{{ site.app_store_url }}" class="btn side">Pobierz na <b>iOS</b></a>
+{% endif %}
+<br/>
+{% if site.android_url %}
+<a href="{{ site.android_url }}" class="btn side">Pobierz na <b>Androida</b></a>
+{% endif %}
         </td></tr>
       </table>
 
