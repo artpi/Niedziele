@@ -1,5 +1,5 @@
 
-## Niedziele wolne od handlu
+## Niedziele wolne od handlu i inne dni kiedy będziesz chodził głodny
 
 ### 2017-12-25
 
