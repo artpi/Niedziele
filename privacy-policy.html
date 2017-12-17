@@ -36,33 +36,27 @@
     </section>
 
     <section class="main-content">
-      <table border=0>
-        <tr>
-          <td style='border:0;width:50%'>
-            <img src='/screenshots/shot.png'>
-          </td>
-        <td style='border:0;width:50%;vertical-align: top'>
-          <h3 style='text-align:center'>Zainstaluj aplikację Czy Kupię, aby nigdy nie zostać z reką w nocniku<br/> <i>( albo co gorsza pustej lodówce )</i></h3>
-          <h2>CzyKupię odpowiada na jedno proste pytanie.</h2>
-          <ul>
-            <li>Przypomni o zakupach, zanim zamkną sklepy</li>
-            <li>Powie Ci, czy sklepy są otwarte</li>
-            <li>Pozwoli Ci wygrać w loterię "czy dzisiaj zjem"</li>
 
-          </ul>
-{% if site.app_store_url %}
-<a href="{{ site.app_store_url }}" class="btn side">Pobierz na <b>iOS</b></a>
-{% endif %}
-<br/>
-{% if site.android_url %}
-<a href="{{ site.android_url }}" class="btn side">Pobierz na <b>Androida</b></a>
-{% endif %}
-        </td></tr>
-      </table>
+      <h1>Polityka Prywatności</h1>
 
+      Słuchaj. Nie robimy kont, nie zbieramy danych i nie przesyłamy informacji z Twojego telefonu.
 
-      {{ content }}
+      W aplikacji są 2 elementy które mogą korzystać z internetu:
+      <ul>
+        <li>Reklamy</li>
+        <li>Google Analytics</li>
+      </ul>
 
+      Google analytics ukrywa Twoje dane, a ja chcę wiedzieć, jak dużo ludzi korzysta z appki.
+
+      Reklamy są po to, abym mógł sobie kupić Teslę (oczywiście nie w niedzielę).
+
+      <h3>Notyfikacje</h3>
+
+      Wszystkie notyfikacje są ustawiane lokalnie, żeby Ci przypomnieć o zakupach.
+      Nie mogę Cię spamować chociażbym chciał.
+
+      
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
