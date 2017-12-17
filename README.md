@@ -1,0 +1,3 @@
+# Czykupię App
+
+Czykupię pozwala na...
