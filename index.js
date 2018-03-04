@@ -1,8 +1,4 @@
 module.exports = {
-	"2017-12-25": "Boże Narodzenie",
-	"2017-12-26": "Boże Narodzenie",
-	"2018-01-01": "Nowy Rok",
-	"2018-01-06": "Trzech Króli",
 	"2018-03-11": "Niedziela wolna od handlu",
 	"2018-03-18": "Niedziela wolna od handlu",
 	"2018-04-01": "Wielkanoc",
