@@ -1,39 +1,7 @@
 
 ## Niedziele wolne od handlu i inne dni kiedy będziesz chodził głodny
 
-### 2017-12-25
-
-Boże Narodzenie
-
-### 2017-12-26
-
-Boże Narodzenie
-
-### 2018-01-01
-
-Nowy Rok
-
-### 2018-01-06
-
-Trzech Króli
-
-### 2018-01-07
-
-Niedziela wolna od handlu
-
-### 2018-01-28
-
-Niedziela wolna od handlu
-
-### 2018-02-04
-
-Niedziela wolna od handlu
-
-### 2018-02-18
-
-Niedziela wolna od handlu
-
-### 2018-03-04
+### 2018-03-11
 
 Niedziela wolna od handlu
 
@@ -49,11 +17,15 @@ Wielkanoc
 
 Poniedziałek wielkanocny
 
+### 2018-04-08
+
+Niedziela wolna od handlu
+
 ### 2018-04-15
 
 Niedziela wolna od handlu
 
-### 2018-04-29
+### 2018-04-22
 
 Niedziela wolna od handlu
 
@@ -65,19 +37,19 @@ Niedziela wolna od handlu
 
 Święto Konstytucji
 
-### 2018-05-06
+### 2018-05-13
 
 Niedziela wolna od handlu
 
 ### 2018-05-20
 
-Niedziela wolna od handlu
+Zielone świątki
 
 ### 2018-05-30
 
 Boże Ciało
 
-### 2018-06-03
+### 2018-06-10
 
 Niedziela wolna od handlu
 
@@ -85,7 +57,7 @@ Niedziela wolna od handlu
 
 Niedziela wolna od handlu
 
-### 2018-07-01
+### 2018-07-08
 
 Niedziela wolna od handlu
 
@@ -93,11 +65,11 @@ Niedziela wolna od handlu
 
 Niedziela wolna od handlu
 
-### 2018-07-29
+### 2018-07-22
 
 Niedziela wolna od handlu
 
-### 2018-08-05
+### 2018-08-12
 
 Niedziela wolna od handlu
 
@@ -109,7 +81,7 @@ Wojska Polskiego
 
 Niedziela wolna od handlu
 
-### 2018-09-02
+### 2018-09-09
 
 Niedziela wolna od handlu
 
@@ -117,19 +89,15 @@ Niedziela wolna od handlu
 
 Niedziela wolna od handlu
 
-### 2018-09-30
+### 2018-09-23
 
 Niedziela wolna od handlu
 
-### 2018-10-07
+### 2018-10-14
 
 Niedziela wolna od handlu
 
 ### 2018-10-21
-
-Niedziela wolna od handlu
-
-### 2018-11-04
 
 Niedziela wolna od handlu
 
@@ -141,11 +109,7 @@ Niedziela wolna od handlu
 
 Niedziela wolna od handlu
 
-### 2018-12-02
-
-Niedziela wolna od handlu
-
-### 2018-12-16
+### 2018-12-09
 
 Niedziela wolna od handlu
 
@@ -156,9 +120,4 @@ Boże Narodzenie
 ### 2018-12-26
 
 Boże Narodzenie
-
-### 2018-12-30
-
-Niedziela wolna od handlu
-
 
