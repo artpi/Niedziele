@@ -10,7 +10,7 @@ module.exports = {
 	"2018-05-03": "Święto Konstytucji",
 	"2018-05-13": "Niedziela wolna od handlu",
 	"2018-05-20": "Zielone świątki",
-	"2018-05-30": "Boże Ciało",
+	"2018-05-31": "Boże Ciało",
 	"2018-06-10": "Niedziela wolna od handlu",
 	"2018-06-17": "Niedziela wolna od handlu",
 	"2018-07-08": "Niedziela wolna od handlu",
